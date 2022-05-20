@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+    <meta name="Description" content="Basic Gray">
+    <meta name="author" content="CoffeeCup Software, Inc.">
+    <meta name="Copyright" content="Copyright (c) 2010 CoffeeCup, all rights reserved.">
+	<meta name="google-site-verification" content="rOduCyyi0mxFKQHsxHF6soiIM2rYqtLBABeu0Npim_o" />
+	<title>Ruby on Rails Simple Web Application Tutorial</title>
+    <link rel="stylesheet" href="stylesheets/default.css">
+    <script type="text/javascript" src="http://code.jquery.com/jquery-1.4.2.min.js"></script>
+    <script type="text/javascript" src="javascripts/behavior.js"></script>
+    <!--[if IE]>
+<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+</head>
+<body>
+	<header id="mast">
+    	<h1>Creative Web Applications</h1>
+    </header>
+    <nav id="global">
+    	<ul>
+        	<li><a class="selected" href="index.html">Home</a></li>
+            <li><a href="gallery.html">Gallery</a></li>
+            <li><a href="stories.html">Stories</a></li>
+            <!--<li><a href="services.html">Services</a></li>-->
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+    <section id="intro">
+    	<header>
+    		<h2>What you will need to get started:</h2>
+        </header>
+        <p><a href="http://www.coffeecup.com/free-editor/" title="CoffeCup Free HTML Editor" onMouseOver="window.status='http://www.coffeecup.com/free-editor/'; return true" onMouseOut="window.status=' '">CoffeCup Free HTML Editor</a></p>
+		<p><a href="http://guides.rubyonrails.org/getting_started.html" title="Getting Started With Rails" onMouseOver="window.status='http://guides.rubyonrails.org/getting_started.html'; return true" onMouseOut="window.status=' '">Getting Started with Rails</a></p>
+        <div id="photo">
+        	<div>
+            	<img src="http://i.imgur.com/IYSoC.jpg" alt="" title="Child of Eden" />
+				<h3>Photo</h3>
+
+            </div>
+        </div>
+		<p><a href="http://www.heroku.com/" title="Heroku - Cloud Application Platform" onMouseOver="window.status='http://www.heroku.com/'; return true" onMouseOut="window.status=' '">Heroku - Cloud Application Platform</a></p>
+
+		<p><a href="http://labs.hyperandroid.com/html5-tiler-3d" title="Tiler3D-HTML5" onMouseOver="window.status='http://labs.hyperandroid.com/html5-tiler-3d'; return true" onMouseOut="window.status=' '">Tiler3D-HTML5</a></p>
+        
+        
+    </section>
+<!--    <div id="main" class="clear">
+        <section id="articles">
+            <article class="blogPost">
+                <header>
+                    <h2>Article Title</h2>
+                    <p>Posted on <time pubdate datetime="2009-06-29T23:31:45-09:00">June 29th 2009</time> by <a href="#">Joe Blow</a> - <a href="#comments">3 comments</a></p>
+                </header>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin euismod tellus eu orci imperdiet nec rutrum lacus blandit. Cras enim nibh, sodales ultricies elementum vel, fermentum id tellus. Proin metus odio, ultricies eu pharetra dictum, laoreet id odio.</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            </article>
+            <article class="blogPost">
+                <header>
+                    <h2>Article Title</h2>
+                    <p>Posted on <time pubdate datetime="2009-06-29T23:31:45-09:00">June 29th 2009</time> by <a href="#">Joe Blow</a> - <a href="#comments">3 comments</a></p>
+                </header>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin euismod tellus eu orci imperdiet nec rutrum lacus blandit. Cras enim nibh, sodales ultricies elementum vel, fermentum id tellus. Proin metus odio, ultricies eu pharetra dictum, laoreet id odio.</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            </article>
+        </section>
+        <aside>
+            <section>
+                <header>
+                    <h3>Categories</h3>
+                </header>
+                <nav id="categories">
+                    <ul>
+                        <li><a href="/">Page Link</a></li>
+                        <li><a href="/">Page Link</a></li>
+                        <li><a href="/">Page Link</a></li>
+                        <li><a href="/">Page Link</a></li>
+                        <li><a href="/">Page Link</a></li>
+                        <li><a href="/">Page Link</a></li>
+                    </ul>
+                </nav>
+            </section>
+            <section>
+                <header>
+                    <h3>Archives</h3>
+                </header>
+                <nav id="archives">
+                    <ul>
+                        <li><a href="/">Page Link</a></li>
+                        <li><a href="/">Page Link</a></li>
+                        <li><a href="/">Page Link</a></li>
+                        <li><a href="/">Page Link</a></li>
+                        <li><a href="/">Page Link</a></li>
+                        <li><a href="/">Page Link</a></li>
+                    </ul>
+                </nav>
+            </section>
+        </aside>
+    </div>
+    <footer>
+    	<div class="clear">
+            <section id="about">
+                <header>
+                    <h3>About</h3>
+                </header>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco <a href="/">laboris nisi ut aliquip</a> ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            </section>
+            <section>
+                <header>
+                    <h3>Blog Roll</h3>
+                </header>
+                <nav id="blogRoll">
+                    <ul>
+                        <li><a href="/">Page Link</a></li>
+                        <li><a href="/">Page Link</a></li>
+                        <li><a href="/">Page Link</a></li>
+                        <li><a href="/">Page Link</a></li>
+                        <li><a href="/">Page Link</a></li>
+                        <li><a href="/">Page Link</a></li>
+                    </ul>
+                </nav>
+            </section>
+            <section>
+                <header>
+                    <h3>Site Map</h3>
+                </header>
+                <nav id="siteMap">
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="about.html">About</a></li>
+                        <li><a href="services.html">Services</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                    </ul>
+                </nav>
+            </section>
+        </div>
+    </footer>-->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-25933242-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</body>
+</html>

@@ -1,0 +1,52 @@
+﻿<tiltviewergallery>
+	<photos>
+		<photo imageurl="imgsJPT/Cong.jpg" linkurl="http://www.google.com">
+			<title>Cong</title>
+			<description><![CDATA[<font color="#777777" size="50"><b>Jakov Pavlek's Travels</b></font><br /><br /><font color="#222222" size="40"><b><u>Photo</u>:</b></font><br /><i>Photographer: Alica Bjeli;<br />Location: Cong, Ireland;<br />Date: Aug 9, 2010.</i>]]></description>
+		</photo>
+		<photo imageurl="imgsJPT/Reed.jpg" linkurl="http://www.google.com">
+			<title>Reed</title>
+			<description><![CDATA[<font color="#777777" size="50"><b>Jakov Pavlek's Travels</b></font><br /><br /><font color="#222222" size="40"><b><u>Photo</u>:</b></font><br /><i>Photographer: Alica Bjeli;<br />Location: Carrick-a-Reed Rope Bridge, Ireland;<br />Date: Aug 10, 2010.</i>]]></description>
+		</photo>
+		<photo imageurl="imgsJPT/Carrick-a-Reed.jpg" linkurl="http://www.google.com" showFlipButton="true">
+			<title>Carrick-a-Reed</title>
+			<description><![CDATA[<font color="#777777" size="50"><b>Jakov Pavlek's Travels</b></font><br /><br /><font color="#222222" size="40"><b><u>Photo</u>:</b></font><br /><i>Photographer: Alica Bjeli;<br />Location: Carrick-a-Reed, Ireland;<br />Date: Aug 10, 2010.</i>]]></description>
+		</photo>
+		<photo imageurl="imgsJPT/Muenchen.jpg" linkurl="http://www.google.com">
+			<title>Muenchen</title>
+			<description><![CDATA[<font color="#777777" size="50"><b>Jakov Pavlek's Travels</b></font><br /><br /><font color="#222222" size="40"><b><u>Photo</u>:</b></font><br /><i>Photographer: Alica Bjeli;<br />Location: Muenchen, Germany;<br />Date: Jun 22, 2007.</i>]]></description>
+		</photo>
+		<photo imageurl="imgsJPT/Motovun.jpg" linkurl="http://www.google.com">
+			<title>Motovun</title>
+			<description><![CDATA[<font color="#777777" size="50"><b>Jakov Pavlek's Travels</b></font><br /><br /><font color="#222222" size="40"><b><u>Photo</u>:</b></font><br /><i>Photographer: Alica Bjeli;<br />Location: Motovun, Croatia;<br />Date: Jul 24, 2007.</i>]]></description>
+		</photo>
+		<photo imageurl="imgsJPT/Umag.jpg" linkurl="http://www.google.com">
+			<title>Umag</title>			
+			<description><![CDATA[<font color="#777777" size="50"><b>Jakov Pavlek's Travels</b></font><br /><br /><font color="#222222" size="40"><b><u>Photo</u>:</b></font><br /><i>Photographer: Alica Bjeli;<br />Location: Umag, Croatia;<br />Date: Jul 29, 2007.</i>]]></description>
+			</photo>
+		<photo imageurl="imgsJPT/ATPUmag.jpg" linkurl="http://www.google.com">
+			<title>ATP Umag</title>			
+			<description><![CDATA[<font color="#777777" size="50"><b>Jakov Pavlek's Travels</b></font><br /><br /><font color="#222222" size="40"><b><u>Photo</u>:</b></font><br /><i>Photographer: Alica Bjeli;<br />Location: Umag, Croatia;<br />Date: Jul 29, 2007.</i>]]></description>
+		</photo>
+		<photo imageurl="imgsJPT/VrsarDzamonja.jpg" linkurl="http://www.google.com">
+			<title>Vrsar Džamonja</title>			
+			<description><![CDATA[<font color="#777777" size="50"><b>Jakov Pavlek's Travels</b></font><br /><br /><font color="#222222" size="40"><b><u>Photo</u>:</b></font><br /><i>Photographer: Alica Bjeli;<br />Location: Vrsar, Croatia;<br />Date: Jul 30, 2007.</i>]]></description>
+		</photo>
+		<photo imageurl="imgsJPT/Samobor.jpg" linkurl="http://www.google.com">
+			<title>Samobor</title>
+			<description><![CDATA[<font color="#777777" size="50"><b>Jakov Pavlek's Travels</b></font><br /><br /><font color="#222222" size="40"><b><u>Photo</u>:</b></font><br /><i>Photographer: Alica Bjeli;<br />Location: Samobor, Croatia;<br />Date: Sep 30, 2007.</i>]]></description>
+		</photo>
+		<photo imageurl="imgsJPT/DubrovnikPalace.jpg" linkurl="http://www.google.com">
+			<title>Dubrovnik Palace</title>			
+			<description><![CDATA[<font color="#777777" size="50"><b>Jakov Pavlek's Travels</b></font><br /><br /><font color="#222222" size="40"><b><u>Photo</u>:</b></font><br /><i>Photographer: Alica Bjeli;<br />Location: Dubrovnik, Croatia;<br />Date: Mar 21, 2008.</i>]]></description>
+		</photo>
+		<photo imageurl="imgsJPT/DubrovnikWalls.jpg" linkurl="http://i.imgur.com/Gl0NC.jpg">
+			<title>Dubrovnik Walls</title>
+			<description><![CDATA[<font color="#777777" size="50"><b>Jakov Pavlek's Travels</b></font><br /><br /><font color="#222222" size="40"><b><u>Photo</u>:</b></font><br /><i>Photographer: Alica Bjeli;<br />Location: Dubrovnik, Croatia;<br />Date: Mar 21, 2008.</i>]]></description>
+			</photo>
+		<photo imageurl="imgsJPT/Zakopane.jpg" linkurl="http://www.google.com">
+			<title>Cierny Staw</title>
+			<description><![CDATA[<font color="#777777" size="50"><b>Jakov Pavlek's Travels</b></font><br /><br /><font color="#222222" size="40"><b><u>Photo</u>:</b></font><br /><i>Photographer: Maja Stošić;<br />Location: Cierny Staw, Poland;<br />Date: Jul 25, 2003.</i>]]></description>
+		</photo>
+	</photos>
+</tiltviewergallery>

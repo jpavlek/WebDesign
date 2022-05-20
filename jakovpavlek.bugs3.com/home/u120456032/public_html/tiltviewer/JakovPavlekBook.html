@@ -1,0 +1,85 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>TiltViewer</title>
+<script type="text/javascript" src="swfobject.js"></script>
+<style type="text/css">	
+	/* hide from ie on mac \*/
+	html {
+		height: 100%;
+		overflow: hidden;
+	}
+	
+	#flashcontent {
+		height: 100%;
+	}
+	/* end hide */
+
+	body {
+		height: 100%;
+		margin: 0;
+		padding: 0;
+		background-color: #000000;
+		color:#ffffff;
+		font-family:sans-serif;
+		font-size:30;
+	}
+
+	a {	
+		color:#cccccc;
+	}
+</style>
+</head>
+<body>
+	<div id="flashcontent">TiltViewer requires JavaScript and the latest Flash player. <a href="http://www.macromedia.com/go/getflashplayer/">Get Flash here.</a></div>
+	<script type="text/javascript">
+	
+		//var fo = new SWFObject("TiltViewer.swf", "viewer", "100%", "100%", "9.0.28", "#000000");
+		var fo = new SWFObject("TiltViewer.swf", "viewer", "100%", "100%", "9.0.28", "#000000");	
+		
+		// TILTVIEWER CONFIGURATION OPTIONS
+		// To use an option, uncomment it by removing the "//" at the start of the line
+		// For a description of config options, go to: 
+		// http://www.airtightinteractive.com/projects/tiltviewer/config_options.html
+															
+		//FLICKR GALLERY OPTIONS
+		// To use images from Flickr, uncomment this block
+		//fo.addVariable("useFlickr", "false");
+		//fo.addVariable("user_id", "76992560@N08");
+		//fo.addVariable("tags", "Jakov_Book");
+		//fo.addVariable("tag_mode", "all");
+		//fo.addVariable("showTakenByText", "true");			
+		
+		// XML GALLERY OPTIONS
+		// To use local images defined in an XML document, use this block		
+		fo.addVariable("useFlickr", "false");
+		fo.addVariable("xmlURL", "JakovPavlekBook.xml");
+		fo.addVariable("maxJPGSize","900");
+		
+		//GENERAL OPTIONS		
+		fo.addVariable("useReloadButton", "false");
+		fo.addVariable("columns", "4");
+		fo.addVariable("rows", "1");
+		fo.addVariable("showFlipButton", "true");
+		fo.addVariable("showLinkButton", "true");		
+		fo.addVariable("linkLabel", "Jakov Pavlek Book Info");
+		fo.addVariable("frameColor", "0xAAAABB");
+		fo.addVariable("backColor", "0xFFFF33");
+		fo.addVariable("bkgndInnerColor", "0x440077");
+		fo.addVariable("bkgndOuterColor", "0xAA77FF");				
+		fo.addVariable("langGoFull", "Go Fullscreen / Prikaz na cijelom zaslonu");
+		fo.addVariable("langExitFull", "Exit Fullscreen / Zatvoriti prikaz na cijelom zaslonu");
+		fo.addVariable("langAbout", "About / O programu");				
+		
+		// END TILTVIEWER CONFIGURATION OPTIONS
+		
+		fo.addParam("allowFullScreen","true");
+		fo.addParam("quality", "best");
+		fo.addParam("wmode", "transparent");
+		fo.addParam("salign", "tl");
+		fo.addParam("scale", "noborder");		
+		
+		fo.write("flashcontent");			
+	</script>	
+</body>
+</html>

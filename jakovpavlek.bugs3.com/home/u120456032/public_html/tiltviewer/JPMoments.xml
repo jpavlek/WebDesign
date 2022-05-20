@@ -1,0 +1,515 @@
+﻿<tiltviewergallery>
+	<photos>
+		<!--<photo imageurl="imgsMM/Alps 2-900x600.jpg" linkurl="http://www.google.com">
+			<title>Alps 2</title>
+		</photo>-->
+		<photo imageurl="imgsMM/Arena-900x600.jpg" linkurl="http://www.google.com">
+			<title>Arena</title>
+		</photo>
+		<photo imageurl="imgsMM/Beograd 2-900x600.jpg" linkurl="http://www.google.com">
+			<title>Beograd 2</title>			
+		</photo>
+		<photo imageurl="imgsMM/Budim i Pesta-900x600.jpg" linkurl="http://www.google.com" showFlipButton="true">
+			<title>Budim i Pesta</title>
+		</photo>
+		<photo imageurl="imgsMM/Dublin 2-600x900.jpg" linkurl="http://www.google.com">
+			<title>Dublin 2</title>
+		</photo>
+		<!--<photo imageurl="imgsMM/Baredine 1-900x600.jpg" linkurl="http://www.google.com">
+			<title>Baredine 1</title>
+		</photo>-->
+		<photo imageurl="imgsMM/Bally Vaughan-900x600.jpg" linkurl="http://www.google.com">
+			<title>Bally Vaughan</title>
+		</photo>
+		<photo imageurl="imgsMM/Beograd 1-900x600.jpg" linkurl="http://www.google.com">
+			<title>Beograd 1</title>			
+		</photo>
+		<photo imageurl="imgsMM/Alps-900x600.jpg" linkurl="http://www.google.com">
+			<title>Alps</title>
+		</photo>
+		<photo imageurl="imgsMM/Brac 1-900x600.jpg" linkurl="http://www.google.com">
+			<title>Brac 1</title>			
+		</photo>
+		<photo imageurl="imgsMM/Brac 2-900x600.jpg" linkurl="http://i.imgur.com/Gl0NC.jpg">
+			<title>Brac 2</title>
+		</photo>
+		<photo imageurl="imgsMM/Brac 3-900x600.jpg" linkurl="http://www.google.com">
+			<title>Brac 3</title>
+		</photo>
+		<photo imageurl="imgsMM/Beograd 3-600x900.jpg" linkurl="http://www.google.com">
+			<title>Beograd 3</title>
+		</photo>
+		<photo imageurl="imgsMM/Bruxelles 7-900x600.jpg" linkurl="http://www.google.com">
+			<title>Bruxelles 7</title>
+		</photo>
+		<photo imageurl="imgsMM/Bruxelles 5-900x600.jpg" linkurl="http://www.google.com">
+			<title>Bruxelles 5</title>			
+		</photo>
+		<photo imageurl="imgsMM/Brijuni 1-900x600.jpg" linkurl="http://www.google.com" showFlipButton="true">
+			<title>Brijuni 1</title>
+		</photo>
+		<photo imageurl="imgsMM/Bruxelles 3-900x600.jpg" linkurl="http://www.google.com">
+			<title>Bruxelles 3</title>			
+		</photo>
+		<photo imageurl="imgsMM/Brugges-900x600.jpg" linkurl="http://www.google.com">
+			<title>Brugges</title>
+		</photo>
+		<photo imageurl="imgsMM/Bruxelles 2-900x600.jpg" linkurl="http://www.google.com">
+			<title>Bruxelles 2</title>			
+		</photo>
+		<photo imageurl="imgsMM/Bruxelles 1-600x900.jpg" linkurl="http://www.google.com">
+			<title>Bruxelles 1</title>			
+		</photo>
+		<photo imageurl="imgsMM/BG - Jadnicak mali-900x600.jpg" linkurl="http://www.google.com" showFlipButton="true">
+			<title>Jadnicak mali</title>
+		</photo>
+		<photo imageurl="imgsMM/Bratislava 2-600x900.jpg" linkurl="http://www.google.com">
+			<title>Bratislava 2</title>
+		</photo>
+		<photo imageurl="imgsMM/Cliffs of Moher 1-900x600.jpg" linkurl="http://www.google.com">
+			<title>Cliffs of Moher 1</title>			
+		</photo>
+		<!--<photo imageurl="imgsMM/Bruxelles 6-900x600.jpg" linkurl="http://i.imgur.com/Gl0NC.jpg">
+			<title>Bruxelles 6</title>
+		</photo>-->
+		<photo imageurl="imgsMM/Brijuni 2-900x600.jpg" linkurl="http://www.google.com">
+			<title>Brijuni 2</title>
+		</photo>
+		<photo imageurl="imgsMM/Baredine 2-900x600.jpg" linkurl="http://www.google.com">
+			<title>Baredine 2</title>			
+		</photo>
+		<photo imageurl="imgsMM/Bruxelles 9-900x600.jpg" linkurl="http://www.google.com">
+			<title>Bruxelles 9</title>
+		</photo>
+		<photo imageurl="imgsMM/Bruxelles 8-600x900.jpg" linkurl="http://www.google.com">
+			<title>Bruxelles 8</title>
+		</photo>
+		<photo imageurl="imgsMM/Budva 1-900x600.jpg" linkurl="http://www.google.com">
+			<title>Budva 1</title>
+		</photo>
+		<!--<photo imageurl="imgsMM/Budva 2-900x600.jpg" linkurl="http://www.google.com">
+			<title>Budva 2</title>
+		</photo>-->
+		<photo imageurl="imgsMM/Budva 3-900x600.jpg" linkurl="http://www.google.com">
+			<title>Budva 3</title>			
+		</photo>
+		<photo imageurl="imgsMM/Carrick-A-Rede 2-900x600.jpg" linkurl="http://www.google.com">
+			<title>Carrick-A-Rede 2</title>			
+		</photo>
+		<photo imageurl="imgsMM/Carrick-A-Rede-900x600.jpg" linkurl="http://www.google.com">
+			<title>Carrick-A-Rede</title>
+		</photo>
+		<photo imageurl="imgsMM/Carrick-A-Rede 3-900x600.jpg" linkurl="http://www.google.com">
+			<title>Carrick-A-Rede 3</title>			
+		</photo>
+		<photo imageurl="imgsMM/Connemara-900x600.jpg" linkurl="http://i.imgur.com/Gl0NC.jpg">
+			<title>Connemara</title>
+		</photo>
+		<photo imageurl="imgsMM/Cvrsti, cvrsti zagrljaj-600x900.jpg" linkurl="http://www.google.com">
+			<title>Cvrsti, cvrsti zagrljaj</title>
+		</photo>
+		<photo imageurl="imgsMM/Bruxelles 4-900x600.jpg" linkurl="http://www.google.com">
+			<title>Bruxelles 4</title>
+		</photo>
+                <photo imageurl="imgsMM/Dublin 1-900x600.jpg" linkurl="http://www.google.com">
+			<title>Dublin 1</title>
+		</photo>
+                <photo imageurl="imgsMM/Bratislava 1-900x600.jpg" linkurl="http://www.google.com">
+			<title>Bratislava 1</title>
+		</photo>
+		<photo imageurl="imgsMM/Dubrovnik 1-900x600.jpg" linkurl="http://www.google.com">
+			<title>Dubrovnik 1</title>			
+		</photo>
+		<photo imageurl="imgsMM/Izlazak Sunca-900x600.jpg" linkurl="http://www.google.com">
+			<title>Izlazak Sunca</title>			
+		</photo>
+		<photo imageurl="imgsMM/Glenariff-900x600.jpg" linkurl="http://www.google.com" showFlipButton="true">
+			<title>Glenariff</title>
+		</photo>
+		<photo imageurl="imgsMM/Hohenschwangau-600x900.jpg" linkurl="http://www.google.com">
+			<title>Hohenschwangau</title>
+		</photo>
+		<!--<photo imageurl="imgsMM/Dublin 7-900x600.jpg" linkurl="http://www.google.com">
+			<title>Dublin 7</title>			
+		</photo>-->
+		<photo imageurl="imgsMM/Dubrovnik 5-900x600.jpg" linkurl="http://www.google.com">
+			<title>Dubrovnik 5</title>
+		</photo>
+		<photo imageurl="imgsMM/Gdynia 2-900x600.jpg" linkurl="http://www.google.com">
+			<title>Gdynia 2</title>			
+		</photo>
+		<photo imageurl="imgsMM/Koeln 2-900x600.jpg" linkurl="http://www.google.com" showFlipButton="true">
+			<title>Koeln 2</title>
+		</photo>
+		<photo imageurl="imgsMM/Dubrovnik 4-600x900.jpg" linkurl="http://i.imgur.com/Gl0NC.jpg">
+			<title>Dubrovnik 4</title>
+		</photo>
+		<photo imageurl="imgsMM/Dublin 3-900x600.jpg" linkurl="http://www.google.com" showFlipButton="true">
+			<title>Dublin 3</title>
+		</photo>
+                <!--<photo imageurl="imgsMM/Dubrovnik 6-900x600.jpg" linkurl="http://www.google.com">
+			<title>Dubrovnik 6</title>
+		</photo>-->
+		<photo imageurl="imgsMM/Dubrovnik 7-600x900.jpg" linkurl="http://www.google.com">
+			<title>Dubrovnik 7</title>
+		</photo>
+		<photo imageurl="imgsMM/Dubrovnik 8-600x900.jpg" linkurl="http://www.google.com" showFlipButton="true">
+			<title>Dubrovnik 8</title>
+		</photo>
+		<photo imageurl="imgsMM/Dubrovnik 9-600x900.jpg" linkurl="http://www.google.com">
+			<title>Dubrovnik 9</title>
+		</photo>
+		<photo imageurl="imgsMM/Dublin 6-900x600.jpg" linkurl="http://www.google.com">
+			<title>Dublin 6</title>			
+		</photo>
+		<photo imageurl="imgsMM/Dunluce Castle 2-600x900.jpg" linkurl="http://www.google.com">
+			<title>Dunluce Castle 2</title>			
+		</photo>
+		<photo imageurl="imgsMM/Funtana 1-900x600.jpg" linkurl="http://www.google.com">
+			<title>Funtana 1</title>			
+		</photo>
+		<photo imageurl="imgsMM/Dubrovnik 2-900x600.jpg" linkurl="http://www.google.com">
+			<title>Dubrovnik 2</title>
+		</photo>
+		<photo imageurl="imgsMM/Gdynia-900x600.jpg" linkurl="http://www.google.com">
+			<title>Gdynia</title>
+		</photo>
+		<photo imageurl="imgsMM/Kilkenny 2-600x900.jpg" linkurl="http://www.google.com">
+			<title>Kilkenny 2</title>
+		</photo>
+		<photo imageurl="imgsMM/Golubovi na Kalisu-900x600.jpg" linkurl="http://www.google.com">
+			<title>Golubovi na Kalisu</title>
+		</photo>
+		<photo imageurl="imgsMM/Kalnik 2-900x600.jpg" linkurl="http://www.google.com">
+			<title>Kalnik 2</title>
+		</photo>
+                <photo imageurl="imgsMM/Giant's Causeway 5-900x600.jpg" linkurl="http://www.google.com">
+			<title>Giant's Causeway 5</title>
+		</photo>
+		<photo imageurl="imgsMM/Giant's Causeway-900x600.jpg" linkurl="http://www.google.com">
+			<title>Giant's Causeway</title>
+		</photo>
+		<photo imageurl="imgsMM/Dublin 5-900x600.jpg" linkurl="http://www.google.com">
+			<title>Dublin 5</title>
+		</photo>
+		<photo imageurl="imgsMM/Glendalough-900x600.jpg" linkurl="http://www.google.com">
+			<title>Glendalough</title>
+		</photo>
+		<photo imageurl="imgsMM/Haganj - macak-600x900.jpg" linkurl="http://www.google.com">
+			<title>Haganj - macak</title>			
+		</photo>
+		<photo imageurl="imgsMM/Gothenburg 1-900x600.jpg" linkurl="http://www.google.com">
+			<title>Gothenburg 1</title>			
+		</photo>
+		<photo imageurl="imgsMM/Dunluce Castle 1-900x600.jpg" linkurl="http://www.google.com">
+			<title>Dunluce Castle 1</title>
+		</photo>
+		<photo imageurl="imgsMM/Herrenchimsee 1-900x600.jpg" linkurl="http://www.google.com">
+			<title>Herrenchimsee 1</title>			
+		</photo>
+		<photo imageurl="imgsMM/Kalnik 1-900x600.jpg" linkurl="http://i.imgur.com/Gl0NC.jpg">
+			<title>Kalnik 1</title>
+		</photo>
+		<photo imageurl="imgsMM/Dublin 4-900x600.jpg" linkurl="http://www.google.com">
+			<title>Dublin 4</title>
+		</photo>
+		<photo imageurl="imgsMM/Giant's Causeway 2-900x600.jpg" linkurl="http://www.google.com">
+			<title>Giant's Causeway 2</title>			
+		</photo>
+		<photo imageurl="imgsMM/Kilkenny-600x900.jpg" linkurl="http://www.google.com">
+			<title>Kilkenny</title>
+		</photo>
+		<photo imageurl="imgsMM/Giant's Causeway 3-900x600.jpg" linkurl="http://i.imgur.com/Gl0NC.jpg">
+			<title>Giant's Causeway 3</title>
+		</photo>
+		<photo imageurl="imgsMM/Giant's Causeway 4-900x600.jpg" linkurl="http://www.google.com">
+			<title>Giant's Causeway 4</title>
+		</photo>              
+		<photo imageurl="imgsMM/Dubrovnik 3-900x600.jpg" linkurl="http://www.google.com">
+			<title>Dubrovnik 3</title>			
+		</photo>
+		<photo imageurl="imgsMM/Koeln-900x600.jpg" linkurl="http://www.google.com">
+			<title>Koeln</title>
+		</photo>
+		<photo imageurl="imgsMM/Kosice 1-600x900.jpg" linkurl="http://www.google.com">
+			<title>Kosice 1</title>
+		</photo>
+		<photo imageurl="imgsMM/Kosice 2-900x600.jpg" linkurl="http://www.google.com">
+			<title>Kosice 2</title>			
+		</photo>
+		<photo imageurl="imgsMM/Kosice 3-900x600.jpg" linkurl="http://www.google.com">
+			<title>Kosice 3</title>			
+		</photo>
+		<!--<photo imageurl="imgsMM/Kosice 4-900x600.jpg" linkurl="http://www.google.com">
+			<title>Kosice 4</title>			
+		</photo>-->
+		<!--<photo imageurl="imgsMM/Kosice 5-900x600.jpg" linkurl="http://www.google.com">
+			<title>Kosice 5</title>
+		</photo>-->
+		<photo imageurl="imgsMM/Kylemore Abbey 2-900x600.jpg" linkurl="http://www.google.com">
+			<title>Kylemore Abbey 2</title>			
+		</photo>
+		<photo imageurl="imgsMM/Kylemore Abbey 3-900x600.jpg" linkurl="http://i.imgur.com/Gl0NC.jpg">
+			<title>Kylemore Abbey 3</title>
+			</photo>
+		<photo imageurl="imgsMM/Kylemore Abbey 4-900x600.jpg" linkurl="http://www.google.com">
+			<title>Kylemore Abbey 4</title>
+		</photo>
+                <photo imageurl="imgsMM/Kylemore Abbey 5-900x600.jpg" linkurl="http://www.google.com">
+			<title>Kylemore Abbey 5</title>
+		</photo>
+		<photo imageurl="imgsMM/Kylemore Abbey 6-900x600.jpg" linkurl="http://www.google.com">
+			<title>Kylemore Abbey 6</title>
+		</photo>
+		<photo imageurl="imgsMM/Kylemore Abbey 7-900x600.jpg" linkurl="http://www.google.com" showFlipButton="true">
+			<title>Kylemore Abbey 7</title>
+		</photo>
+		<photo imageurl="imgsMM/Kylemore Abbey-900x600.jpg" linkurl="http://www.google.com">
+			<title>Kylemore Abbey</title>
+		</photo>
+		<photo imageurl="imgsMM/Lausanne 1-600x900.jpg" linkurl="http://www.google.com">
+			<title>Lausanne 1</title>
+		</photo>
+		<!--<photo imageurl="imgsMM/Lausanne 2-600x900.jpg" linkurl="http://www.google.com">
+			<title>Lausanne 2</title>			
+		</photo>-->
+		<photo imageurl="imgsMM/Lausanne 3-900x600.jpg" linkurl="http://www.google.com">
+			<title>Lausanne 3</title>			
+		</photo>
+		<photo imageurl="imgsMM/Leuven la Neuve 1-600x900.jpg" linkurl="http://www.google.com">
+			<title>Leuven la Neuve 1</title>			
+		</photo>
+		<photo imageurl="imgsMM/Leuven la Neuve 2-900x600.jpg" linkurl="http://www.google.com">
+			<title>Leuven la Neuve 2</title>
+		</photo>
+		<photo imageurl="imgsMM/Limerick-900x600.jpg" linkurl="http://www.google.com">
+			<title>Limerick</title>			
+		</photo>
+		<photo imageurl="imgsMM/Limski Kanal 1-900x600.jpg" linkurl="http://i.imgur.com/Gl0NC.jpg">
+			<title>Limski Kanal 1</title>
+			</photo>
+		<!--<photo imageurl="imgsMM/Limski kanal 2-600x900.jpg" linkurl="http://www.google.com">
+			<title>Limski kanal 2</title>
+		</photo>-->
+		<photo imageurl="imgsMM/London 1-900x600.jpg" linkurl="http://www.google.com">
+			<title>London 1</title>
+		</photo>
+		<!--<photo imageurl="imgsMM/London 2-900x600.jpg" linkurl="http://www.google.com">
+			<title>London 2</title>
+		</photo>-->
+		<photo imageurl="imgsMM/London 3-900x600.jpg" linkurl="http://www.google.com" showFlipButton="true">
+			<title>London 3</title>
+		</photo>
+		<photo imageurl="imgsMM/London Sky-900x600.jpg" linkurl="http://www.google.com">
+			<title>London Sky</title>
+		</photo>
+		<!--<photo imageurl="imgsMM/Lopud 1-900x600.jpg" linkurl="http://www.google.com">
+			<title>Lopud 1</title>
+		</photo>-->
+		<photo imageurl="imgsMM/Lopud 2-900x600.jpg" linkurl="http://www.google.com">
+			<title>Lopud 2</title>			
+		</photo>
+		<photo imageurl="imgsMM/Mainz 1-900x600.jpg" linkurl="http://www.google.com">
+			<title>Mainz 1</title>			
+		</photo>
+		<photo imageurl="imgsMM/Mljet 1-900x600.jpg" linkurl="http://www.google.com">
+			<title>Mljet 1</title>			
+		</photo>
+		<photo imageurl="imgsMM/Mljet 2-900x600.jpg" linkurl="http://www.google.com">
+			<title>Mljet 2</title>
+		</photo>
+		<!--<photo imageurl="imgsMM/Motovun 1-900x600.jpg" linkurl="http://i.imgur.com/Gl0NC.jpg">
+			<title>Motovun 1</title>
+		</photo>-->
+		<photo imageurl="imgsMM/Motovun 2-900x600.jpg" linkurl="http://www.google.com">
+			<title>Motovun 2</title>
+		</photo>
+                
+                <photo imageurl="imgsMM/Muenchen 1-900x600.jpg" linkurl="http://www.google.com">
+			<title>/Muenchen 1</title>
+		</photo>
+		<photo imageurl="imgsMM/Neuschwanstein 2-900x600.jpg" linkurl="http://www.google.com">
+			<title>Neuschwanstein 2</title>
+		</photo>
+		<photo imageurl="imgsMM/Neuschwanstein-900x600.jpg" linkurl="http://www.google.com" showFlipButton="true">
+			<title>Neuschwanstein</title>
+		</photo>
+		<photo imageurl="imgsMM/Nin 1-900x600.jpg" linkurl="http://www.google.com">
+			<title>Nin 1</title>
+		</photo>
+		<photo imageurl="imgsMM/Nin 2-900x600.jpg" linkurl="http://www.google.com">
+			<title>Nin 2</title>
+		</photo>
+		<photo imageurl="imgsMM/Nin 3-900x600.jpg" linkurl="http://www.google.com">
+			<title>Nin 3</title>			
+		</photo>
+		<photo imageurl="imgsMM/Nin 4-900x600.jpg" linkurl="http://www.google.com">
+			<title>Nin 4</title>			
+		</photo>
+		<photo imageurl="imgsMM/Paris 1-600x900.jpg" linkurl="http://www.google.com">
+			<title>Paris 1</title>			
+		</photo>
+		<!--<photo imageurl="imgsMM/Paris 10-900x600.jpg" linkurl="http://www.google.com">
+			<title>Paris 10</title>
+		</photo>-->
+		<photo imageurl="imgsMM/Paris 11-900x600.jpg" linkurl="http://www.google.com">
+			<title>Paris 11</title>			
+		</photo>
+		<photo imageurl="imgsMM/Paris 2-900x600.jpg" linkurl="http://i.imgur.com/Gl0NC.jpg">
+			<title>Paris 2</title>
+			</photo>
+		<photo imageurl="imgsMM/Paris 3-900x600.jpg" linkurl="http://www.google.com">
+			<title>Paris 3</title>
+		</photo>
+		<photo imageurl="imgsMM/Paris 5-900x600.jpg" linkurl="http://www.google.com">
+			<title>Paris 5</title>
+		</photo>
+		<photo imageurl="imgsMM/Paris 6-900x600.jpg" linkurl="http://www.google.com">
+			<title>Paris 6</title>
+		</photo>
+		<!--<photo imageurl="imgsMM/Paris 7-900x600.jpg" linkurl="http://www.google.com" showFlipButton="true">
+			<title>Paris 7</title>
+		</photo>-->
+		<photo imageurl="imgsMM/Paris 8-600x900.jpg" linkurl="http://www.google.com">
+			<title>Paris 8</title>
+		</photo>
+		<!--<photo imageurl="imgsMM/Paris 9-600x900.jpg" linkurl="http://www.google.com">
+			<title>Paris 9</title>
+		</photo>-->
+		<photo imageurl="imgsMM/Plaza Gdynia 2-900x600.jpg" linkurl="http://www.google.com">
+			<title>Plaza Gdynia 2</title>			
+		</photo>
+		<photo imageurl="imgsMM/Plaza Gdynia-900x600.jpg" linkurl="http://www.google.com">
+			<title>Plaza Gdynia</title>			
+		</photo>
+		<!--<photo imageurl="imgsMM/Porec 1-900x600.jpg" linkurl="http://www.google.com">
+			<title>Porec 1</title>			
+		</photo>-->
+		<photo imageurl="imgsMM/Porec 2-900x600.jpg" linkurl="http://www.google.com">
+			<title>Porec 2</title>
+		</photo>
+		<!--<photo imageurl="imgsMM/RO - Bambi-900x600.jpg" linkurl="http://www.google.com">
+			<title>RO - Bambi</title>			
+		</photo>-->
+		<photo imageurl="imgsMM/RO - Bamby & the Wolfs-900x600.jpg" linkurl="http://i.imgur.com/Gl0NC.jpg">
+			<title>RO - Bamby & the Wolfs</title>
+			</photo>
+		<photo imageurl="imgsMM/RO - Isuse!-900x600.jpg" linkurl="http://www.google.com">
+			<title>RO - Isuse!</title>
+		</photo>
+                <photo imageurl="imgsMM/RO - Zimska idila-900x600.jpg" linkurl="http://www.google.com">
+			<title>RO - Zimska idila</title>
+		</photo>
+		<photo imageurl="imgsMM/Rastoke 1-900x600.jpg" linkurl="http://www.google.com">
+			<title>Rastoke 1</title>
+		</photo>
+		<photo imageurl="imgsMM/Rastoke 2-900x600.jpg" linkurl="http://www.google.com" showFlipButton="true">
+			<title>Rastoke 2</title>
+		</photo>
+		<photo imageurl="imgsMM/Rastoke 3-900x600.jpg" linkurl="http://www.google.com">
+			<title>Rastoke 3</title>
+		</photo>
+		<photo imageurl="imgsMM/Rastoke 4-900x600.jpg" linkurl="http://www.google.com">
+			<title>Rastoke 4</title>
+		</photo>
+		<photo imageurl="imgsMM/Ross Errilly Friary 2-900x600.jpg" linkurl="http://www.google.com">
+			<title>Ross Errilly Friary 2</title>			
+		</photo>
+		<photo imageurl="imgsMM/Ross Errilly Friary-900x600.jpg" linkurl="http://www.google.com">
+			<title>Ross Errilly Friary</title>			
+		</photo>
+		<photo imageurl="imgsMM/Samobor 1-900x600.jpg" linkurl="http://www.google.com">
+			<title>Samobor 1</title>			
+		</photo>
+		<photo imageurl="imgsMM/Stubica 1-900x600.jpg" linkurl="http://www.google.com">
+			<title>Stubica 1</title>
+		</photo>
+		<photo imageurl="imgsMM/Susedgrad 1-900x600.jpg" linkurl="http://www.google.com">
+			<title>Susedgrad 1</title>			
+		</photo>
+		<photo imageurl="imgsMM/The Burren-900x600.jpg" linkurl="http://i.imgur.com/Gl0NC.jpg">
+			<title>The Burren</title>
+			</photo>
+		<photo imageurl="imgsMM/Trieste 1-900x600.jpg" linkurl="http://www.google.com">
+			<title>Trieste 1</title>
+		</photo>
+                <!--<photo imageurl="imgsMM/Venice 1-900x600.jpg" linkurl="http://www.google.com">
+			<title>Venice 1</title>
+		</photo>-->
+		<photo imageurl="imgsMM/Venice 2-900x600.jpg" linkurl="http://www.google.com">
+			<title>/Venice 2</title>
+		</photo>
+		<photo imageurl="imgsMM/Venice 3-900x600.jpg" linkurl="http://www.google.com" showFlipButton="true">
+			<title>Venice 3</title>
+		</photo>
+		<photo imageurl="imgsMM/Venice 4-900x600.jpg" linkurl="http://www.google.com">
+			<title>Venice 4</title>
+		</photo>
+		<photo imageurl="imgsMM/Venice 5-600x900.jpg" linkurl="http://www.google.com">
+			<title>Venice 5</title>
+		</photo>
+		<photo imageurl="imgsMM/Venice 6-900x600.jpg" linkurl="http://www.google.com">
+			<title>Venice 6</title>			
+		</photo>
+		<photo imageurl="imgsMM/Venice 7-900x600.jpg" linkurl="http://www.google.com">
+			<title>Venice 7</title>			
+		</photo>
+		<!--<photo imageurl="imgsMM/Vysoke Tatry 2-600x900.jpg" linkurl="http://www.google.com">
+			<title>Vysoke Tatry 2</title>			
+		</photo>-->
+		<photo imageurl="imgsMM/Vysoke Tatry 3-900x600.jpg" linkurl="http://www.google.com">
+			<title>Vysoke Tatry 3</title>
+		</photo>
+		<photo imageurl="imgsMM/Vysoke Tatry 4-600x900.jpg" linkurl="http://www.google.com">
+			<title>Vysoke Tatry 4</title>			
+		</photo>
+		<photo imageurl="imgsMM/Vysoke Tatry 5-900x600.jpg" linkurl="http://i.imgur.com/Gl0NC.jpg">
+			<title>Vysoke Tatry 5</title>
+			</photo>
+		<photo imageurl="imgsMM/Vysoke Tatry 6-900x600.jpg" linkurl="http://www.google.com">
+			<title>Vysoke Tatry 6</title>
+		</photo>              
+                <!--<photo imageurl="imgsMM/Vysoke Tatry-900x600.jpg" linkurl="http://www.google.com">
+			<title>Vysoke Tatry</title>
+		</photo>-->
+		<photo imageurl="imgsMM/ZOO-600x900.jpg" linkurl="http://www.google.com">
+			<title>ZOO</title>
+		</photo>
+		<photo imageurl="imgsMM/Zadar 1-900x600.jpg" linkurl="http://www.google.com" showFlipButton="true">
+			<title>Zadar 1</title>
+		</photo>
+		<photo imageurl="imgsMM/Zadar 2-900x600.jpg" linkurl="http://www.google.com">
+			<title>Zadar 2</title>
+		</photo>
+		<photo imageurl="imgsMM/Zadar 3-600x900.jpg" linkurl="http://www.google.com">
+			<title>Zadar 3</title>
+		</photo>
+		<photo imageurl="imgsMM/Zagorje 1-900x600.jpg" linkurl="http://www.google.com">
+			<title>Zagorje 1</title>			
+		</photo>
+		<photo imageurl="imgsMM/Zagorje 2-600x900.jpg" linkurl="http://www.google.com">
+			<title>Zagorje 2</title>			
+		</photo>
+		<photo imageurl="imgsMM/Zagreb 1-900x600.jpg" linkurl="http://www.google.com">
+			<title>Zagreb 1</title>			
+		</photo>
+		<!--<photo imageurl="imgsMM/Zagreb 2-900x600.jpg" linkurl="http://www.google.com">
+			<title>Zagreb 2</title>
+		</photo>-->
+		<!--<photo imageurl="imgsMM/Zagreb Blossom 2-600x900.jpg" linkurl="http://www.google.com">
+			<title>Zagreb Blossom 2</title>			
+		</photo>-->
+		<photo imageurl="imgsMM/Zagreb Blossom-900x600.jpg" linkurl="http://i.imgur.com/Gl0NC.jpg">
+			<title>Zagreb Blossom</title>
+			</photo>
+		<photo imageurl="imgsMM/Zapresic 1-600x900.jpg" linkurl="http://www.google.com">
+			<title>Zapresic 1</title>
+		</photo>
+		<photo imageurl="imgsMM/Zapresic 2-900x600.jpg" linkurl="http://www.google.com">
+			<title>Zapresic 2</title>
+		</photo>
+		<photo imageurl="imgsMM/Mljet 3-600x900.jpg" linkurl="http://www.google.com">
+			<title>Mljet 3</title>			
+		</photo>
+	</photos>
+</tiltviewergallery>
